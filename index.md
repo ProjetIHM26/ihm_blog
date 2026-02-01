@@ -1,3 +1,6 @@
+---
+layout: home
+---
 <a href="interview.html" class="btn">
 Interview Zahra : 
 </a>
