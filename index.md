@@ -1,9 +1,23 @@
 ---
 layout: home
+title: Blog Projet IHM : NOM EQUIPE
 ---
-<a href="interviewZT.html" class="btn">
+
+## Participants du groupe : 
+Teibi Zahra, Mosbah Rania, Goales Saphiya, Ngo Andy
+
+---
+
+## Nos Interviews
+<a href="interview.html" class="btn">
 Interview Zahra : 
 </a>
+
+---
+
+## Nos Vidéos
+
+---
 
 <style>
 .btn {
