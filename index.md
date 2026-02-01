@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Blog Projet IHM NOM EQUIPE
+title: "Blog Projet IHM : NOM EQUIPE"
 ---
 
 ## Participants du groupe : 
