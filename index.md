@@ -41,13 +41,13 @@ title: "Blog Projet IHM : NOM EQUIPE"
 </div>
 
 <div class="section">
-  <h2>Personas</h2>
+  <h2>👥 Personas</h2>
 
   
 </div>
 
 <div class="section">
-  <h2>Brainstorm</h2>
+  <h2>💡 Brainstorm</h2>
 
   <p>
     Ensemble des idées explorées lors des séances de brainstorming :
