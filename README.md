@@ -1,1 +1,1 @@
-[lien vers le blog](https://zahra1903.github.io/ihm_blog/)
+[lien vers le blog](https://projetihm26.github.io/ihm_blog/)
