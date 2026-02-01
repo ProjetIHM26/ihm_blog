@@ -14,15 +14,15 @@ Interview Zahra :
 </a>
 
 <a href="interviewSG.html" class="btn">
-Interview Zahra : 
+Interview Saphiya : 
 </a>
 
 <a href="interviewRM.html" class="btn">
-Interview Zahra : 
+Interview Rania : 
 </a>
 
 <a href="interviewAN.html" class="btn">
-Interview Zahra : 
+Interview Andy : 
 </a>
 ---
 
