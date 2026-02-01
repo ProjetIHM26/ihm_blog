@@ -34,6 +34,39 @@ title: "Blog Projet IHM : NOM EQUIPE"
   </div>
 </div>
 
+<div class="section">
+  <h2>Problèmes relevés</h2>
+
+ 
+</div>
+
+<div class="section">
+  <h2>Personas</h2>
+
+  
+</div>
+
+<div class="section">
+  <h2>Brainstorm</h2>
+
+  <p>
+    Ensemble des idées explorées lors des séances de brainstorming :
+  </p>
+
+ 
+</div>
+
+<div class="section">
+  <h2>Idées retenues</h2>
+
+  
+</div>
+
+<div class="section">
+  <h2>Projet sélectionné : </h2>
+
+ 
+</div>
 
 <div class="section">
   <h2>🎬 Vidéos</h2>
