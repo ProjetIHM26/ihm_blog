@@ -94,38 +94,5 @@ title: "Blog Projet IHM : NOM EQUIPE"
     </div>
   </div>
 </div>
-<style>
-.postit-board {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  padding: 20px 0;
-}
-.postit {
-  width: 140px;
-  height: 140px;
-  padding: 16px;
-  border-radius: 4px;
-  box-shadow: 4px 4px 10px rgba(0,0,0,0.15);
-  transition: width 0.25s, height 0.25s, transform 0.25s, box-shadow 0.25s;
-  font-family: 'Patrick Hand', cursive;
-  font-size: 0.85rem;
-  line-height: 1.4;
-  overflow: hidden;
-  position: relative;
-  transform: rotate(-2deg);
-}
-.postit:nth-child(even) { transform: rotate(1.5deg); }
-.postit:hover {
-  width: 220px;
-  height: 220px;
-  transform: rotate(0deg) scale(1.05);
-  box-shadow: 8px 8px 20px rgba(0,0,0,0.25);
-  z-index: 10;
-}
-.postit.yellow { background: #fff176; }
-.postit.pink   { background: #f48fb1; }
-.postit.blue   { background: #81d4fa; }
-.postit.green  { background: #a5d6a7; }
-</style>
+
 :
