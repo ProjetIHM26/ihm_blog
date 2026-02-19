@@ -83,3 +83,65 @@ h1, h2, h3 {
   font-size: 0.9em;
   margin-top: 10px;
 }
+
+/* ===== POST-ITS BRAINSTORM ===== */
+.postit-board {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px 0;
+  justify-content: flex-start;
+}
+
+.postit {
+  width: 140px;
+  height: 140px;
+  padding: 16px;
+  border-radius: 4px;
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.15);
+  cursor: pointer;
+  transition: transform 0.25s ease, width 0.25s ease, height 0.25s ease, box-shadow 0.25s ease;
+  display: flex;
+  align-items: flex-start;
+  font-family: 'Patrick Hand', 'Caveat', cursive;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  overflow: hidden;
+  position: relative;
+  transform: rotate(-2deg);
+}
+
+.postit:nth-child(even) {
+  transform: rotate(1.5deg);
+}
+
+.postit:hover {
+  width: 220px;
+  height: 220px;
+  transform: rotate(0deg) scale(1.05);
+  box-shadow: 8px 8px 20px rgba(0,0,0,0.25);
+  z-index: 10;
+  font-size: 1rem;
+}
+
+.postit span {
+  display: block;
+}
+
+/* Couleurs */
+.postit.yellow { background: #fff176; }
+.postit.pink   { background: #f48fb1; }
+.postit.blue   { background: #81d4fa; }
+.postit.green  { background: #a5d6a7; }
+
+/* Petite pliure en bas à droite */
+.postit::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  background: rgba(0,0,0,0.08);
+  clip-path: polygon(100% 0, 100% 100%, 0 100%);
+}
