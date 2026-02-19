@@ -47,28 +47,53 @@ title: "Blog Projet IHM : NOM EQUIPE"
   <p>Ensemble des idées explorées lors des séances de brainstorming :</p>
   <div class="postit-board">
     <div class="postit yellow">
-      <span>Idée 1 : Créer une appli mobile pour les patients</span>
+      <span>Idée 1 : Un robot qui apparait lorsqu'on nous donne un médicament et nous explique comment le prendre grâce à un tuto. </span>
     </div>
     <div class="postit pink">
-      <span>Idée 2 : Tableau de bord médecin simplifié</span>
+      <span>Idée 2 : Sur l'ordonnance avoir un bouton qui permet d'acceder à la posologie (si non vu le medicamenent n'est pas fourni.</span>
     </div>
     <div class="postit blue">
-      <span>Idée 3 : Rappels automatiques de rendez-vous</span>
+      <span>Idée 3 : Obligation d'avoir vu la vidéo explicative pour pouvoir ouvrir la boite (sinon elle reste fermée)</span>
     </div>
     <div class="postit green">
-      <span>Idée 4 : Partage de documents entre praticiens</span>
+      <span>Idée 4 : Quand une personne veut prendre un médicament, elle se téléporte dans un monde virtuel où elle ne peut pas sortir tant qu'elle n'a pas pris le médicament correctement.</span>
     </div>
     <div class="postit yellow">
-      <span>Idée 5 : Signature électronique des ordonnances</span>
+      <span>Idée 5 : Boite d'emballage qui parle </span>
     </div>
     <div class="postit pink">
-      <span>Idée 6 : Chat sécurisé patient-médecin</span>
+      <span>Idée 6 : Avoir une voix qui explique les choses à ne surtout pzs faire et avec qui on peut communiquer.</span>
     </div>
     <div class="postit blue">
-      <span>Idée 7 : Historique médical centralisé</span>
+      <span>Idée 7 : Avoir un écran tactile sur tous les produits avec les informations nécessaires.</span>
     </div>
     <div class="postit green">
-      <span>Idée 8 : Formulaires pré-consultation en ligne</span>
+      <span>Idée 8 : Une barrière qui détecte les signaux pour voir si un patient est en train de s'enerver et qui s'active pour enfermer le patient.</span>
+    </div>
+    <div class="postit yellow">
+      <span>Idée 9 : Un robot qui peut courir et attaquer les patients qui s'énervent pour les enfermer le temps qu'ils se calment </span>
+    </div>
+     <div class="postit pink">
+      <span>Idée 10: Une boite qui enferme un patient si le taux de cortisol du pharmacien/medecin augmente et disparait lorsque le patient se calme  </span>
+    </div>
+    <div class="postit blue">
+      <span>Idée 11 : Un bouton sous le bureau du médecin qui ouvre une trappe dans laquelle le patient tombe et glisse sur un toboggan jusqu'a l'exterieur </span>
+    </div>
+    <div class="postit green">
+      <span>Idée 12 : Un tapis roulant avec des barrières pour forcer le patient à sortir et l'empecher de rentrer</span>
+    </div>
+
+        <div class="postit yellow">
+      <span>Idée 13 : Une arme "style laser" mais moins dangereuse pour canalyser/ calmer le patient </span>
+    </div>
+     <div class="postit pink">
+      <span>Idée 14: Une gomme qui efface les mauvaises ondes  </span>
+    </div>
+    <div class="postit blue">
+      <span>Idée 15 : Faire des médicaments qui s'adaptent à la facon de le prendre. Par exemple un liquide à injecter se solidifie si quelqu'un essaye de le boire</span>
+    </div>
+    <div class="postit green">
+      <span>Idée 16 : Un produit qu'on injecte dans le sang et qui monte dans le cerveau pour donner les connaissances nécessaires au patient. </span>
     </div>
   </div>
 </div>
