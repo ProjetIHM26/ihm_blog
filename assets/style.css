@@ -159,24 +159,9 @@ h1, h2, h3 {
   flex-shrink: 0;
 } 
 
-/* Flex pour l'image + texte initial */
-.robot-intro {
-  display: flex;
-  align-items: flex-start;
-  gap: 20px; /* espace entre image et texte */
-}
-
-.robot-img {
-  width: 10%;      /* petite image */
-  height: auto;
-  flex-shrink: 0;  /* empêche l'image de rétrécir */
-}
-
-.robot-text {
-  flex: 1;         /* texte prend tout l'espace restant */
-}
-
-/* Texte pleine largeur à partir de Modes de contrôle */
-.robot-details {
-  margin-top: 20px; /* espace au-dessus */
+.robot-float {
+  float: left;          /* fait flotter l'image à gauche */
+  width: 10%;           /* petite taille, comme tu voulais */
+  margin-right: 20px;   /* espace entre l'image et le texte */
+  margin-bottom: 10px;  /* espace en dessous pour que le texte en dessous ne colle pas */
 }
