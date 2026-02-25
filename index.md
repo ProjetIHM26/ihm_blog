@@ -6,7 +6,7 @@ title: "Blog Projet IHM : Dr.Bot"
 <link rel="stylesheet" href="assets/style.css">
 
 <div class="hero">
-  <h1>Blog Projet IHM : NOM EQUIPE</h1>
+  <h1>Blog Projet IHM : Dr.Bot</h1>
   <p><strong>Participants :</strong> Zahra Teibi · Saphiya Goales · Rania Mosbah · Sierra Richey</p> 
 </div>
 
