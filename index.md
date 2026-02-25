@@ -119,36 +119,27 @@ title: "Blog Projet IHM : NOM EQUIPE"
 
 <div class="section">
   <h2>Projet sélectionné</h2>
-# Présentation du Robot Médical
 
-Ce robot est conçu pour accompagner toutes les personnes prenant des médicaments, quel que soit leur âge.
+  <p>Ce robot est conçu pour accompagner toutes les personnes prenant des médicaments, quel que soit leur âge.</p>
 
-Il possède des **yeux intelligents** capables de scanner les boîtes de médicaments pour les identifier automatiquement. Sa **bouche** s’ouvre pour accueillir certains médicaments solides afin de les **analyser**, reconnaître leur nom et indiquer comment les prendre correctement. Ses **bras extensibles** lui permettent de manipuler les médicaments liquides et d’aider à leur identification. Ses **jambes motorisées** lui permettent de se déplacer pour assister au mieux l’utilisateur.
+  <p>Il possède des <strong>yeux intelligents</strong> capables de scanner les boîtes de médicaments pour les identifier automatiquement. Sa <strong>bouche</strong> s’ouvre pour accueillir certains médicaments solides afin de les <strong>analyser</strong>, reconnaître leur nom et indiquer comment les prendre correctement. Ses <strong>bras extensibles</strong> lui permettent de manipuler les médicaments liquides et d’aider à leur identification. Ses <strong>jambes motorisées</strong> lui permettent de se déplacer pour assister au mieux l’utilisateur.</p>
 
----
+  <h3>Modes de contrôle</h3>
 
-## Modes de contrôle
+  <ul>
+    <li><strong>Vocal :</strong> l’utilisateur peut donner des commandes simples (par exemple, demander des informations sur un médicament) et poser des questions générales sur les traitements.</li>
+    <li><strong>Manuel :</strong> l’utilisateur place un médicament dans la bouche du robot pour qu’il l’analyse, lui donne son nom et explique comment le prendre correctement.</li>
+    <li><strong>Automatique :</strong> le robot surveille la prise de médicaments et déclenche une alarme si l’utilisateur tente de prendre un médicament interdit ou de manière incorrecte.</li>
+  </ul>
 
-### 1. Vocal
+  <h3>Fonctions de sécurité et d’assistance</h3>
 
-L’utilisateur peut donner des commandes simples (par exemple, demander des informations sur un médicament) et poser des questions générales sur les traitements.
-
-### 2. Manuel
-
-L’utilisateur place un médicament dans la bouche du robot pour qu’il l’analyse, lui donne son nom et explique comment le prendre correctement.
-
-### 3. Automatique
-
-Le robot surveille la prise de médicaments et déclenche une alarme si l’utilisateur tente de prendre un médicament interdit ou de manière incorrecte.
-
----
-
-## Fonctions de sécurité et d’assistance
-
-- Si l’utilisateur essaie de prendre un médicament inapproprié pour lui, le robot émet un **avertissement vocal** et l’informe d’arrêter.
-- Lorsque la boîte de médicament est presque vide, le robot recommande de **retourner à la pharmacie** pour un renouvellement.
-- Le robot peut **identifier les médicaments solides grâce à sa bouche** et **les médicaments liquides grâce à ses bras**, assurant une information précise et sécurisée pour l’utilisateur.
-
+  <ul>
+    <li>Si l’utilisateur essaie de prendre un médicament inapproprié pour lui, le robot émet un <strong>avertissement vocal</strong> et l’informe d’arrêter.</li>
+    <li>Lorsque la boîte de médicament est presque vide, le robot recommande de <strong>retourner à la pharmacie</strong> pour un renouvellement.</li>
+    <li>Le robot peut <strong>identifier les médicaments solides grâce à sa bouche</strong> et <strong>les médicaments liquides grâce à ses bras</strong>, assurant une information précise et sécurisée pour l’utilisateur.</li>
+  </ul>
+</div>
  
 </div>
 
