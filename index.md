@@ -33,6 +33,9 @@ title: "Blog Projet IHM : NOM EQUIPE"
 <div class="section">
   <h2>Problèmes relevés</h2>
 
+  1. Nous avons remarqué que certains patients rencontrent des difficultés à suivre correctement les consignes, que ce soit pour la prise de médicaments ou la gestion de leurs rendez-vous sur Doctolib. Ces incompréhensions peuvent entraîner des erreurs de traitement ou des rendez-vous manqués, avec des conséquences sur la santé et le suivi médical.
+  2. Dans certaines situations, des patients peuvent se montrer agressifs ou violents, ce qui représente un danger pour le personnel médical et les autres patients. Ces comportements compliquent le suivi des soins et peuvent mettre en danger l’environnement de soins. Le personnel n'est pas toujours formé à la gestion des situations difficiles.
+
  
 </div>:
 
