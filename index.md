@@ -119,6 +119,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
 
 <div class="section">
   <h2>Projet sélectionné</h2>
+    <img src="images/robot-Photoroom.png" alt="robot">
 
   <p>Ce robot est conçu pour accompagner toutes les personnes prenant des médicaments, quel que soit leur âge.</p>
 
@@ -139,8 +140,6 @@ title: "Blog Projet IHM : NOM EQUIPE"
     <li>Lorsque la boîte de médicament est presque vide, le robot recommande de <strong>retourner à la pharmacie</strong> pour un renouvellement.</li>
     <li>Le robot peut <strong>identifier les médicaments solides grâce à sa bouche</strong> et <strong>les médicaments liquides grâce à ses bras</strong>, assurant une information précise et sécurisée pour l’utilisateur.</li>
   </ul>
-</div>
- 
 </div>
 
 <div class="section">
