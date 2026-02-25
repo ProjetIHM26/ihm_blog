@@ -7,7 +7,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
 
 <div class="hero">
   <h1>Blog Projet IHM : NOM EQUIPE</h1>
-  <p><strong>Participants :</strong> Zahra Teibi · Saphiya Goales · Rania Mosbah Sierra Richey</p> 
+  <p><strong>Participants :</strong> Zahra Teibi · Saphiya Goales · Rania Mosbah · Sierra Richey</p> 
 </div>
 
 
