@@ -159,20 +159,24 @@ h1, h2, h3 {
   flex-shrink: 0;
 } 
 
-.robot-section {
+/* Flex pour l'image + texte initial */
+.robot-intro {
   display: flex;
-  flex-wrap: wrap; /* le texte passe sous l'image sur petit écran */
-  gap: 20px;
   align-items: flex-start;
+  gap: 20px; /* espace entre image et texte */
 }
 
 .robot-img {
-  width: 10%;       /* ajuste selon ton besoin */
+  width: 10%;      /* petite image */
   height: auto;
-  flex-shrink: 0;     /* empêche l'image de rétrécir */
+  flex-shrink: 0;  /* empêche l'image de rétrécir */
 }
 
 .robot-text {
-  flex: 1;            /* texte prend tout l'espace restant */
-  min-width: 200px;   /* permet au texte de rester à côté de l'image sur grand écran */
+  flex: 1;         /* texte prend tout l'espace restant */
+}
+
+/* Texte pleine largeur à partir de Modes de contrôle */
+.robot-details {
+  margin-top: 20px; /* espace au-dessus */
 }
