@@ -161,17 +161,18 @@ h1, h2, h3 {
 
 .robot-section {
   display: flex;
-  flex-wrap: wrap; /* texte passe sous l'image sur petit écran */
-  gap: 20px; /* espace entre image et texte */
+  flex-wrap: wrap; /* le texte passe sous l'image sur petit écran */
+  gap: 20px;
   align-items: flex-start;
 }
 
 .robot-img {
-  width: 200px; /* ajuste la taille de l'image */
+  width: 10%;       /* ajuste selon ton besoin */
   height: auto;
-  flex-shrink: 0; /* empêche l'image de rétrécir */
+  flex-shrink: 0;     /* empêche l'image de rétrécir */
 }
 
 .robot-text {
-  flex: 1; /* texte prend tout l'espace restant */
+  flex: 1;            /* texte prend tout l'espace restant */
+  min-width: 200px;   /* permet au texte de rester à côté de l'image sur grand écran */
 }
