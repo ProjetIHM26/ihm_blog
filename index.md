@@ -114,8 +114,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
 <div class="section">
   <h2>Idées retenues</h2>
 
-  <h3>Dr Bot :</h3>
-  <p>Dr Bot est un robot conçu pour assister les personnes dans leur prise de médicaments. Il peut conseiller l’utilisateur, analyser les médicaments et se déplacer pour apporter son aide quand c’est nécessaire.</p>
+  <p> <strong>Dr Bot :</strong> Dr Bot est un robot conçu pour assister les personnes dans leur prise de médicaments. Il peut conseiller l’utilisateur, analyser les médicaments et se déplacer pour apporter son aide quand c’est nécessaire.</p>
 
   <h3>Watch and Take :</h3>
   <p>Watch and Take est un écran tactile intégré à chaque boîte de médicament. Il oblige à regarder une vidéo explicative avant de pouvoir ouvrir la boîte, afin d’informer sur les consignes, les avertissements et les objectifs du traitement.</p>
