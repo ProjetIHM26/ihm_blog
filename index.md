@@ -117,30 +117,30 @@ title: "Blog Projet IHM : NOM EQUIPE"
   
 </div>
 
-<div class="section robot-section">
-  <img src="images/robot-Photoroom.png" alt="robot" class="robot-img">
+<div class="section">
+  <h2>Projet sélectionné</h2>
 
-  <div class="robot-text">
-    <h2>Projet sélectionné</h2>
+  <img src="images/robot-Photoroom.png" alt="robot" class="robot-float">
 
-    <p>Ce robot est conçu pour accompagner toutes les personnes prenant des médicaments, quel que soit leur âge.</p>
+  <p>Ce robot est conçu pour accompagner toutes les personnes prenant des médicaments, quel que soit leur âge.</p>
 
-    <p>Il possède des <strong>yeux intelligents</strong> capables de scanner les boîtes de médicaments pour les identifier automatiquement. Sa <strong>bouche</strong> s’ouvre pour accueillir certains médicaments solides afin de les <strong>analyser</strong>, reconnaître leur nom et indiquer comment les prendre correctement. Ses <strong>bras extensibles</strong> lui permettent de manipuler les médicaments liquides et d’aider à leur identification. Ses <strong>jambes motorisées</strong> lui permettent de se déplacer pour assister au mieux l’utilisateur.</p>
+  <p>Il possède des <strong>yeux intelligents</strong> capables de scanner les boîtes de médicaments pour les identifier automatiquement. Sa <strong>bouche</strong> s’ouvre pour accueillir certains médicaments solides afin de les <strong>analyser</strong>, reconnaître leur nom et indiquer comment les prendre correctement. Ses <strong>bras extensibles</strong> lui permettent de manipuler les médicaments liquides et d’aider à leur identification. Ses <strong>jambes motorisées</strong> lui permettent de se déplacer pour assister au mieux l’utilisateur.</p>
 
-    <h3>Modes de contrôle</h3>
-    <ul>
-      <li><strong>Vocal :</strong> l’utilisateur peut donner des commandes simples et poser des questions générales sur les traitements.</li>
-      <li><strong>Manuel :</strong> l’utilisateur place un médicament dans la bouche du robot pour qu’il l’analyse, lui donne son nom et explique comment le prendre correctement.</li>
-      <li><strong>Automatique :</strong> le robot surveille la prise de médicaments et déclenche une alarme si l’utilisateur tente de prendre un médicament interdit ou de manière incorrecte.</li>
-    </ul>
+  <h3>Modes de contrôle</h3>
 
-    <h3>Fonctions de sécurité et d’assistance</h3>
-    <ul>
-      <li>Si l’utilisateur essaie de prendre un médicament inapproprié pour lui, le robot émet un <strong>avertissement vocal</strong> et l’informe d’arrêter.</li>
-      <li>Lorsque la boîte de médicament est presque vide, le robot recommande de <strong>retourner à la pharmacie</strong> pour un renouvellement.</li>
-      <li>Le robot peut <strong>identifier les médicaments solides grâce à sa bouche</strong> et <strong>les médicaments liquides grâce à ses bras</strong>, assurant une information précise et sécurisée pour l’utilisateur.</li>
-    </ul>
-  </div>
+  <ul>
+    <li><strong>Vocal :</strong> l’utilisateur peut donner des commandes simples et poser des questions générales sur les traitements.</li>
+    <li><strong>Manuel :</strong> l’utilisateur place un médicament dans la bouche du robot pour qu’il l’analyse, lui donne son nom et explique comment le prendre correctement.</li>
+    <li><strong>Automatique :</strong> le robot surveille la prise de médicaments et déclenche une alarme si l’utilisateur tente de prendre un médicament interdit ou de manière incorrecte.</li>
+  </ul>
+
+  <h3>Fonctions de sécurité et d’assistance</h3>
+
+  <ul>
+    <li>Si l’utilisateur essaie de prendre un médicament inapproprié pour lui, le robot émet un <strong>avertissement vocal</strong> et l’informe d’arrêter.</li>
+    <li>Lorsque la boîte de médicament est presque vide, le robot recommande de <strong>retourner à la pharmacie</strong> pour un renouvellement.</li>
+    <li>Le robot peut <strong>identifier les médicaments solides grâce à sa bouche</strong> et <strong>les médicaments liquides grâce à ses bras</strong>, assurant une information précise et sécurisée pour l’utilisateur.</li>
+  </ul>
 </div>
 
 <div class="section">
