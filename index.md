@@ -35,18 +35,15 @@ title: "Blog Projet IHM : NOM EQUIPE"
 
   <p> 1. Nous avons remarqué que certains patients rencontrent des difficultés à suivre correctement les consignes, que ce soit pour la prise de médicaments ou la gestion de leurs rendez-vous sur Doctolib. Ces incompréhensions peuvent entraîner des erreurs de traitement ou des rendez-vous manqués, avec des conséquences sur la santé et le suivi médical.</p>
 
-  <p>
-2. Dans certaines situations, des patients peuvent se montrer agressifs ou violents, ce qui représente un danger pour le personnel médical et les autres patients. Ces comportements compliquent le suivi des soins et peuvent mettre en danger l’environnement de soins. Le personnel n'est pas toujours formé à la gestion des situations difficiles.
-
-    
-  </p>
-  
+  <p> 2. Dans certaines situations, des patients peuvent se montrer agressifs ou violents, ce qui représente un danger pour le personnel médical et les autres patients. Ces comportements compliquent le suivi des soins et peuvent mettre en danger l’environnement de soins. Le personnel n'est pas toujours formé à la gestion des situations difficiles.</p>
  
 </div>
 
 <div class="section">
   <h2>👥 Personas</h2>
-  <img src="images/p_evan.png" alt="Persona Evan"> 
+  <img src="images/p_evan.png" alt="Persona Evan">
+  <div class="persona-text"> <h3>Evan</h3> : <p> Evan est un adolescent de 16 ans qui vit seul, loin de sa famille pour poursuivre ses études. Il a parfois du mal à suivre les consignes médicales et utilise Doctolib mais oublie souvent ses rendez-vous et ne lit pas toujours les posologies.</p> 
+  </div>
   <img src="images/p_julie.png" alt="Persona Julie"> 
   <img src="images/p_jean_michel.png" alt="Persona Jean-Michel">
 </div>
