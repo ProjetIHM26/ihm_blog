@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog Projet IHM : NOM EQUIPE"
+title: "Blog Projet IHM : Dr.Bot"
 ---
 
 <link rel="stylesheet" href="assets/style.css">
@@ -114,7 +114,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
 <div class="section">
   <h2>Idées retenues</h2>
   
-<h3>Dr Bot :</h3>
+<h3>Dr.Bot :</h3>
   <p>Dr Bot est un robot conçu pour assister les personnes dans leur prise de médicaments. Il peut conseiller l’utilisateur, analyser les médicaments et se déplacer pour apporter son aide quand c’est nécessaire.</p>
 
   <h3>Watch and Take :</h3>
@@ -125,7 +125,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
 </div>
 
 <div class="section">
-  <h2>Projet sélectionné</h2>
+  <h2>Projet sélectionné : Dr.Bot</h2>
   <div class="robot-block">
   <img src="images/robot-Photoroom.png" alt="robot" class="robot-float">
   
