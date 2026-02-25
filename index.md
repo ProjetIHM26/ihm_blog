@@ -159,10 +159,14 @@ title: "Blog Projet IHM : Dr.Bot"
     <div class="card">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/2nYsa8jMhgQ?feature=share" frameborder="0" allowfullscreen >  </iframe>
     </div>
+  </div>
+  
+  <div class="cards">
     <div class="card">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/pploPGe6Xjs?feature=share" frameborder="0" allowfullscreen >  </iframe>
     </div>
   </div>
+  
 </div>
 
 
