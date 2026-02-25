@@ -146,4 +146,15 @@ h1, h2, h3 {
   clip-path: polygon(100% 0, 100% 100%, 0 100%);
 }
 
-.persona { display: flex; align-items: center; gap: 20px; margin-bottom: 30px; } .persona img { width: 150px; height: auto; border-radius: 10px; } .persona-text { max-width: 600px; }
+.persona { 
+  display: flex; 
+  align-items: center; 
+  gap: 20px; 
+  margin-bottom: 30px; 
+} 
+.persona img { 
+  width: 120px; 
+  height: auto; 
+  border-radius: 10px; 
+  flex-shrink: 0;
+} 
