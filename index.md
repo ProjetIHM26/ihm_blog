@@ -43,10 +43,13 @@ title: "Blog Projet IHM : NOM EQUIPE"
   <h2>👥 Personas</h2>
   <div class="persona">
     <img src="images/p_evan.png" alt="Persona Evan">
-    <div class="persona-text"> <p>Evan: Evan est un adolescent de 16 ans qui vit seul, loin de sa famille pour poursuivre ses études. Il a parfois du mal à suivre les consignes médicales et utilise Doctolib mais oublie souvent ses rendez-vous et ne lit pas toujours les posologies.</p> 
-    </div>
+    <p>Evan: un adolescent de 16 ans qui vit seul, loin de sa famille pour poursuivre ses études. Il a parfois du mal à suivre les consignes médicales et utilise Doctolib mais oublie souvent ses rendez-vous et ne lit pas toujours les posologies.</p> 
+    
     <img src="images/p_julie.png" alt="Persona Julie"> 
+    <p>Julie: Project Manager chez Apple, 27. Prise pas ses fonctions, elle est un peu tête en l'air et oublie souvent de remettre les médicaments dans leur boîte. Ses enfants jouent avec ces boîtes, donc Julie se retrouve avec des médicaments sans boîte ni notice.</p> 
+    
     <img src="images/p_jean_michel.png" alt="Persona Jean-Michel">
+    <p>Jean Michel: un retraité de 75 ans qui prend régulièrement des médicaments car il est agé et est atteint de la maladie d'Alzheimer.</p> 
   </div>
 </div>
 
