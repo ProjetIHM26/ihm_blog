@@ -43,15 +43,15 @@ title: "Blog Projet IHM : NOM EQUIPE"
   <h2>👥 Personas</h2>
   <div class="persona">
     <img src="images/p_evan.png" alt="Persona Evan">
-    <p>**Evan**: un adolescent de 16 ans qui vit seul, loin de sa famille pour poursuivre ses études. Il a parfois du mal à suivre les consignes médicales : il oublie ses rendez‑vous sur Doctolib et ne lit pas toujours les posologies, ce qui peut entraîner des erreurs dans sa prise de médicaments.</p> 
+    <p><strong>Evan</strong>strong>: un adolescent de 16 ans qui vit seul, loin de sa famille pour poursuivre ses études. Il a parfois du mal à suivre les consignes médicales : il oublie ses rendez‑vous sur Doctolib et ne lit pas toujours les posologies, ce qui peut entraîner des erreurs dans sa prise de médicaments.</p> 
   </div>
   <div class="persona">
     <img src="images/p_julie.png" alt="Persona Julie"> 
-    <p>**Julie**: Project Manager chez Apple, 27 ans. Très prise pas ses responsabilités, parfois tête en l’air : elle oublie de remettre les médicaments dans leur boîte, et ses enfants jouent parfois avec ces boîtes. Elle se retrouve donc souvent avec des médicaments sans emballage ni notice, ce qui complique leur utilisation.</p> 
+    <p><strong>Julie</strong>: Project Manager chez Apple, 27 ans. Très prise pas ses responsabilités, parfois tête en l’air : elle oublie de remettre les médicaments dans leur boîte, et ses enfants jouent parfois avec ces boîtes. Elle se retrouve donc souvent avec des médicaments sans emballage ni notice, ce qui complique leur utilisation.</p> 
   </div> 
   <div class="persona">
     <img src="images/p_jean_michel.png" alt="Persona Jean-Michel">
-    <p>**Jean Michel**: un retraité de 75 ans, atteint de la maladie d’Alzheimer. Fatigué et vivant seul, il doit préparer ses médicaments sans aide, ce qui augmente les risques d’erreurs dans son traitement quotidien.</p> 
+    <p><strong>Jean Michel</strong>: un retraité de 75 ans, atteint de la maladie d’Alzheimer. Fatigué et vivant seul, il doit préparer ses médicaments sans aide, ce qui augmente les risques d’erreurs dans son traitement quotidien.</p> 
   </div>
 </div>
 
