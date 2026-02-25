@@ -46,8 +46,9 @@ title: "Blog Projet IHM : NOM EQUIPE"
 
 <div class="section">
   <h2>👥 Personas</h2>
-
-  
+  <img src="images/p_evan.png" alt="Persona Evan"> <p>Evan</p>
+  <img src="images/p_julie.png" alt="Persona Julie"> <p>Julie</p>
+  <img src="images/p_jean_michel.png" alt="Persona Jean-Michel"> <p>Jean‑Michel</p>
 </div>
 
 <div class="section">
