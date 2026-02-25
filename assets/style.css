@@ -158,3 +158,20 @@ h1, h2, h3 {
   border-radius: 10px; 
   flex-shrink: 0;
 } 
+
+.robot-section {
+  display: flex;
+  flex-wrap: wrap; /* texte passe sous l'image sur petit écran */
+  gap: 20px; /* espace entre image et texte */
+  align-items: flex-start;
+}
+
+.robot-img {
+  width: 200px; /* ajuste la taille de l'image */
+  height: auto;
+  flex-shrink: 0; /* empêche l'image de rétrécir */
+}
+
+.robot-text {
+  flex: 1; /* texte prend tout l'espace restant */
+}
