@@ -7,13 +7,13 @@ title: "Blog Projet IHM : NOM EQUIPE"
 
 <div class="hero">
   <h1>Blog Projet IHM : NOM EQUIPE</h1>
-  <p><strong>Participants :</strong> Zahra Teibi · Saphiya Goales · Rania Mosbah</p>
+  <p><strong>Participants :</strong> Zahra Teibi · Saphiya Goales · Rania Mosbah Sierra Richey</p> 
 </div>
 
 
 <div class="section">
   <h2>🩺 Interviews</h2>
-
+  <p> Sierra a rejoint l'UE après les interviews.</p>
   <div class="cards">
     <div class="card">
       <a href="interviewZT.html">Interview Zahra</a>
