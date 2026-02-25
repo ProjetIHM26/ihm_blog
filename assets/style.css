@@ -49,11 +49,13 @@ h1, h2, h3 {
 }
 
 .cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  display: flex;
+  flex-direction : column
   gap: 20px;
 }
 
+.card iframe { width: 100%; max-width: 560px; height: 315px; margin: 0 auto; display: block;}
+              
 .card {
   background: #f9fbfd;
   padding: 25px;
@@ -165,7 +167,7 @@ h1, h2, h3 {
 
 .robot-float {
   float: left;          /* fait flotter l'image à gauche */
-  width: 15%;           /* petite taille, comme tu voulais */
+  width: 12%;           /* petite taille, comme tu voulais */
   margin-right: 20px;   /* espace entre l'image et le texte */
   margin-bottom: 10px;  /* espace en dessous pour que le texte en dessous ne colle pas */
   border-radius: 10px;
