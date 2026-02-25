@@ -147,10 +147,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
   <h2>🎬 Vidéos</h2>
   <div class="cards">
     <div class="card">
-      <!-- <a href="videos.html">Voir les vidéos du projet</a>
-      <div class="badge">YouTube</div> -->
+      <iframe width="560" height="315" src="https://youtube.com/shorts/2nYsa8jMhgQ?feature=share" frameborder="0" allowfullscreen> </iframe>
     </div>
   </div>
 </div>
-
-:
