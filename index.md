@@ -41,11 +41,13 @@ title: "Blog Projet IHM : NOM EQUIPE"
 
 <div class="section">
   <h2>👥 Personas</h2>
-  <img src="images/p_evan.png" alt="Persona Evan">
-  <div class="persona-text"> <p>Evan: Evan est un adolescent de 16 ans qui vit seul, loin de sa famille pour poursuivre ses études. Il a parfois du mal à suivre les consignes médicales et utilise Doctolib mais oublie souvent ses rendez-vous et ne lit pas toujours les posologies.</p> 
+  <div class="persona">
+    <img src="images/p_evan.png" alt="Persona Evan">
+    <div class="persona-text"> <p>Evan: Evan est un adolescent de 16 ans qui vit seul, loin de sa famille pour poursuivre ses études. Il a parfois du mal à suivre les consignes médicales et utilise Doctolib mais oublie souvent ses rendez-vous et ne lit pas toujours les posologies.</p> 
+    </div>
+    <img src="images/p_julie.png" alt="Persona Julie"> 
+    <img src="images/p_jean_michel.png" alt="Persona Jean-Michel">
   </div>
-  <img src="images/p_julie.png" alt="Persona Julie"> 
-  <img src="images/p_jean_michel.png" alt="Persona Jean-Michel">
 </div>
 
 <div class="section">
