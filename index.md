@@ -115,6 +115,11 @@ title: "Blog Projet IHM : NOM EQUIPE"
 <div class="section">
   <h2>Projet sélectionné</h2>
 
+      <img src="images/robot-Photoroom.png" alt="Robot"> 
+
+
+  
+
  
 </div>
 
