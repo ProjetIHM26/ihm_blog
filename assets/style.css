@@ -161,7 +161,7 @@ h1, h2, h3 {
 
 .robot-float {
   float: left;          /* fait flotter l'image à gauche */
-  width: 120px;           /* petite taille, comme tu voulais */
+  width: 15%;           /* petite taille, comme tu voulais */
   margin-right: 20px;   /* espace entre l'image et le texte */
   margin-bottom: 10px;  /* espace en dessous pour que le texte en dessous ne colle pas */
   border-radius: 10px;
