@@ -119,8 +119,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
 
 <div class="section">
   <h2>Projet sélectionné</h2>
-
-      # Présentation du Robot Médical
+# Présentation du Robot Médical
 
 Ce robot est conçu pour accompagner toutes les personnes prenant des médicaments, quel que soit leur âge.
 
@@ -131,12 +130,15 @@ Il possède des **yeux intelligents** capables de scanner les boîtes de médica
 ## Modes de contrôle
 
 ### 1. Vocal
+
 L’utilisateur peut donner des commandes simples (par exemple, demander des informations sur un médicament) et poser des questions générales sur les traitements.
 
 ### 2. Manuel
+
 L’utilisateur place un médicament dans la bouche du robot pour qu’il l’analyse, lui donne son nom et explique comment le prendre correctement.
 
 ### 3. Automatique
+
 Le robot surveille la prise de médicaments et déclenche une alarme si l’utilisateur tente de prendre un médicament interdit ou de manière incorrecte.
 
 ---
@@ -146,9 +148,6 @@ Le robot surveille la prise de médicaments et déclenche une alarme si l’util
 - Si l’utilisateur essaie de prendre un médicament inapproprié pour lui, le robot émet un **avertissement vocal** et l’informe d’arrêter.
 - Lorsque la boîte de médicament est presque vide, le robot recommande de **retourner à la pharmacie** pour un renouvellement.
 - Le robot peut **identifier les médicaments solides grâce à sa bouche** et **les médicaments liquides grâce à ses bras**, assurant une information précise et sécurisée pour l’utilisateur.
-
-
-  
 
  
 </div>
