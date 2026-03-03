@@ -75,7 +75,7 @@ title: "Blog Projet IHM : Dr.Bot"
       <span>Idée 5 : Boite d'emballage qui parle </span>
     </div>
     <div class="postit pink">
-      <span>Idée 6 : Avoir une voix qui explique les choses à ne surtout pzs faire et avec qui on peut communiquer.</span>
+      <span>Idée 6 : Avoir une voix qui explique les choses à ne surtout pas faire et avec qui on peut communiquer.</span>
     </div>
     <div class="postit blue">
       <span>Idée 7 : Avoir un écran tactile sur tous les produits avec les informations nécessaires.</span>
@@ -95,7 +95,6 @@ title: "Blog Projet IHM : Dr.Bot"
     <div class="postit green">
       <span>Idée 12 : Un tapis roulant avec des barrières pour forcer le patient à sortir et l'empecher de rentrer</span>
     </div>
-
         <div class="postit yellow">
       <span>Idée 13 : Une arme "style laser" mais moins dangereuse pour canalyser/ calmer le patient </span>
     </div>
@@ -108,6 +107,47 @@ title: "Blog Projet IHM : Dr.Bot"
     <div class="postit green">
       <span>Idée 16 : Un produit qu'on injecte dans le sang et qui monte dans le cerveau pour donner les connaissances nécessaires au patient. </span>
     </div>
+    <div class="postit yellow">
+      <span>Idée 17 : Un robot qui caline les personnes avec de mauvaises ondes. </span>
+    </div>
+     <div class="postit pink">
+      <span>Idée 18: Un robot qui passe dans les couloirs et analyse les patients potentiellement difficile (afin de prévénir le médecin) </span>
+    </div>
+    <div class="postit blue">
+      <span>Idée 19 : Le médicament change de couleur si le patient s'apprete à l'utiliser de la mauvaise façon </span>
+    </div>
+    <div class="postit green">
+      <span>Idée 20 : Dans le cas des patients difficiles à cause d'un handicap, on utilise un casque VR compatible avec leur soins médicaux pour les calmer </span>
+    </div>
+    <div class="postit yellow">
+      <span>Idée 21 : Un dessin animé qui s'affiche à la suite du rdv qui explique le diagnotic et explique comment prendre les médicaments</span>
+    </div>
+     <div class="postit pink">
+      <span>Idée 22: A la fin du RDV un assistant virtuel apparaît pour faire un suivi avec le patient (le patient peut lui poser des questions sur le diagnotic etc...) et lorsque le patient est satisfait il peut quitter le cabinet  </span>
+    </div>
+    <div class="postit blue">
+      <span>Idée 23 : Un bonbon qui rend zen immédiatement après sa prise et qui est obligatoire pour la patient connu pour être sur les nerfs</span>
+    </div>
+    <div class="postit green">
+      <span>Idée 24 : Le médicament change de couleur si le patient s'apprete à l'utiliser de la mauvaise façon </span>
+    </div>
+    <div class="postit yellow">
+      <span>Idée 25 : Dans le cas où le patient est un enfant, il peut se faire soigner par la personne qu'il souhaite (hologram d'un personnage de dessin animé, d'un membre de sa famille ...)</span>
+    </div>
+     <div class="postit pink">
+      <span>Idée 26: Des lunettes fournis à l'hotesse d'acceuil qui permet de detecter l'humeur du patient et donc de le placer dans la salle d'attente adapté (ex : salle d'attente pour se défoulé si énervé) </span>
+    </div>
+    <div class="postit blue">
+      <span>Idée 27 : Assister après la remise du médicament par le pharmacien à un tutoriel en groupe</span>
+    </div>
+    <div class="postit green">
+      <span>Idée 28 : Passer par un IA qui détecte le pourcentage de stress, colère... et donne l'autorisation (ou interdit) le patient de venir pour son rendez-vous</span>
+    </div>
+    <div class="postit yellow">
+      <span>Idée 29 : Des lentilles intelligentes qui résume comment utiliser le médicament (posologie, contre-indication) avec un hologramme</span>
+    </div>
+     <div class="postit pink">
+      <span>Idée 30: Injecter au patient un calmant inoffensif </span>
   </div>
 </div>
 
